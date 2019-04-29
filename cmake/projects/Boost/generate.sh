@@ -5,6 +5,7 @@
 
 BOOST_LIBS="
     atomic
+    beast
     chrono
     context
     coroutine
